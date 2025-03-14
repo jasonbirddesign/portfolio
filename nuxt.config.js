@@ -68,6 +68,6 @@ module.exports = {
 		middleware: 'routeGuard'
 	},
 	env: {
-		baseImgUrl: process.env.DEPLOY_ENV === 'GH_PAGES' ? 'https://jaswando.github.io/portfolio/img/' : '/img/'
+		baseImgUrl: process.env.DEPLOY_ENV === 'GH_PAGES' ? 'https://jasonbirddesign.github.io/portfolio/img/' : '/img/'
 	}
 }
